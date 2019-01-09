@@ -1,5 +1,5 @@
 {
-  "name": "nodeproxy",
+  "name": "nodeMiddleProxy",
   "version": "1.0.0",
   "description": "this is a proxy server implemented using node",
   "main": "index.js",
